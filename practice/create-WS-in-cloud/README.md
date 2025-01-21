@@ -1,0 +1,1 @@
+### https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-workspace-create#variables-tf
